@@ -103,6 +103,10 @@
   padding: 0;
 }
 
+.card__title {
+  
+}
+
 .card {
   width: 360px;
   height: 420px;
